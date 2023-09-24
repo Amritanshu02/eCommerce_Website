@@ -1,4 +1,4 @@
-# Web 3.0 eCommerce Store
+# eCommerce Website
 
 ## 📌 Technologies Used
 
@@ -6,16 +6,17 @@
 * CSS
 * JavaScript 
 * React.js
-* Ether.js
-* Hardhat
-* Solidity
-* VScode
+* Redux
+* Nodejs
+* Express.js
+* MongoDB
+* JWT Authentication
 
 ## 📌 Description
 
-Developed a Web 3.0 ecommerce application that revolutionizes personal expression, strengthens community bonds, enables seamless knowledge sharing, ensures data privacy and ownership, reduces intermediary involvement, combats counterfeit products, promotes global access and financial inclusion, establishes decentralized marketplaces, verifies review authenticity, guarantees fair compensation for content creators, enhances supply chain transparency, automates transactions through smart contracts, and eliminates single points of failure.
+Crafted a eCommerce website, solving data privacy, global accessibility, fair compensation challenges, enhance business and scalability.
 
-I innovatively developed a cutting-edge Web 3.0 ecommerce application by seamlessly integrating React.js for an intuitive frontend experience. Utilizing Solidity, I authored smart contracts that power the platform's functionality, all orchestrated through Hardhat to harmonize backend and frontend. Rigorous testing via Hardhat ensured robustness. The app seamlessly integrates with Metamask wallets, providing real-time purchase insights. Ethereum.js facilitated efficient blockchain interactions, culminating in a dynamic, user-centric ecommerce solution.
+Built the website, utilizing a modern tech stack featuring React.js for the frontend, Node.js with Express for the backend, MongoDB for database management, and Redux for efficient data handling and state management.
 
 <h1> Contributing Guidelines </h1>
 
@@ -50,7 +51,7 @@ Click on fork to create a copy of project to your account. This creates a separa
 
 You have forked the project you want to contribute to your github account. To get this project on your development machine we use clone command of git.
 
-`$ git clone https://github.com/Amritanshu02/Web3-Store` <br/>
+`$ git clone https://github.com/Amritanshu02/eCommerce_Website` <br/>
 Now you have the project on your local machine.
 
 <br />
@@ -60,7 +61,7 @@ Now you have the project on your local machine.
 Remote means the remote location of project on Github. By cloning, we have a remote called origin which points to your forked repository. Now we will add a remote to the original repository from where we had forked.
 
 `$ cd <your-forked-project-folder>`
-`$ git remote add upstream https://github.com/Amritanshu02/Web3-Store` <br/>
+`$ git remote add upstream https://github.com/Amritanshu02/eCommerce_Website` <br/>
 You will see the benefits of adding remote later.
 
 <br />
