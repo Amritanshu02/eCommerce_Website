@@ -18,6 +18,14 @@ Crafted a eCommerce website, solving data privacy, global accessibility, fair co
 
 Built the website, utilizing a modern tech stack featuring React.js for the frontend, Node.js with Express for the backend, MongoDB for database management, and Redux for efficient data handling and state management.
 
+## 📌 Video Demonstration
+
+
+
+https://github.com/Amritanshu02/eCommerce_Website/assets/78687085/bc393e4b-cfa2-47d7-a779-57e28e1209ad
+
+
+
 <h1> Contributing Guidelines </h1>
 
 ## Basics of Git and GitHub
